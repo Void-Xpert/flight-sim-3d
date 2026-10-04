@@ -1,2 +1,2 @@
-# flight-sim-3d
-Real-world 3D flight simulator with Google Maps integration, procedural buildings, and AI-driven missions
+VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+VITE_GOOGLE_MAPS_MAP_ID=your_map_id_here
